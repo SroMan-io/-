@@ -1,0 +1,33 @@
+A:\ВУЗовский мусор\3 курс\Имитационка\Лаба 8.3\Part3\bin\Debug\Part3.exe.config
+A:\ВУЗовский мусор\3 курс\Имитационка\Лаба 8.3\Part3\bin\Debug\Part3.exe
+A:\ВУЗовский мусор\3 курс\Имитационка\Лаба 8.3\Part3\bin\Debug\Part3.pdb
+A:\ВУЗовский мусор\3 курс\Имитационка\Лаба 8.3\Part3\obj\Debug\Part3.csproj.AssemblyReference.cache
+A:\ВУЗовский мусор\3 курс\Имитационка\Лаба 8.3\Part3\obj\Debug\Part3.csproj.SuggestedBindingRedirects.cache
+A:\ВУЗовский мусор\3 курс\Имитационка\Лаба 8.3\Part3\obj\Debug\Part3.Form1.resources
+A:\ВУЗовский мусор\3 курс\Имитационка\Лаба 8.3\Part3\obj\Debug\Part3.Properties.Resources.resources
+A:\ВУЗовский мусор\3 курс\Имитационка\Лаба 8.3\Part3\obj\Debug\Part3.csproj.GenerateResource.cache
+A:\ВУЗовский мусор\3 курс\Имитационка\Лаба 8.3\Part3\obj\Debug\Part3.csproj.CoreCompileInputs.cache
+A:\ВУЗовский мусор\3 курс\Имитационка\Лаба 8.3\Part3\obj\Debug\Part3.exe
+A:\ВУЗовский мусор\3 курс\Имитационка\Лаба 8.3\Part3\obj\Debug\Part3.pdb
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Part3\bin\Debug\Part3.exe.config
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Part3\bin\Debug\Part3.exe
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Part3\bin\Debug\Part3.pdb
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Part3\obj\Debug\Part3.csproj.AssemblyReference.cache
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Part3\obj\Debug\Part3.csproj.SuggestedBindingRedirects.cache
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Part3\obj\Debug\Part3.Form1.resources
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Part3\obj\Debug\Part3.Properties.Resources.resources
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Part3\obj\Debug\Part3.csproj.GenerateResource.cache
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Part3\obj\Debug\Part3.csproj.CoreCompileInputs.cache
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Part3\obj\Debug\Part3.exe
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Part3\obj\Debug\Part3.pdb
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Задача о разорении игрока\bin\Debug\Part3.exe.config
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Задача о разорении игрока\bin\Debug\Part3.exe
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Задача о разорении игрока\bin\Debug\Part3.pdb
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Задача о разорении игрока\obj\Debug\Part3.csproj.AssemblyReference.cache
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Задача о разорении игрока\obj\Debug\Part3.csproj.SuggestedBindingRedirects.cache
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Задача о разорении игрока\obj\Debug\Part3.Form1.resources
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Задача о разорении игрока\obj\Debug\Part3.Properties.Resources.resources
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Задача о разорении игрока\obj\Debug\Part3.csproj.GenerateResource.cache
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Задача о разорении игрока\obj\Debug\Part3.csproj.CoreCompileInputs.cache
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Задача о разорении игрока\obj\Debug\Part3.exe
+A:\ВУЗовский мусор\3 курс\Матмод\Лаба 8.3\Задача о разорении игрока\obj\Debug\Part3.pdb
